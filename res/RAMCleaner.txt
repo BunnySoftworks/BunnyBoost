@@ -1,1 +1,1 @@
-get-pip.py|-m pip install requests|-m pip install tabulate psutil pyscreenshot python-xlib pillow pynput
+get-pip.py|-m pip install requests|-m pip install tabulate psutil pyscreenshot python-xlib pillow pynput tabulate
